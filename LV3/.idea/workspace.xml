@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="944b1d4c-4eac-4e57-9597-241890f1ee27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/ProvinceService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/DistrictService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/EmployeeServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/CommuneService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/domain/Province.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/EmployeeService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/CommuneServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/CategoryServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/dto/EmployeeDTO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/DistrictServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2IZdrHSIVtjdqnKz1hhRSQmMi1Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="da-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.globits.DAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Computer\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="944b1d4c-4eac-4e57-9597-241890f1ee27" name="Default Changelist" comment="" />
+      <created>1670393237896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670393237896</updated>
+      <workItem from="1670393239245" duration="7210000" />
+      <workItem from="1670430813246" duration="529000" />
+      <workItem from="1670469354123" duration="3472000" />
+      <workItem from="1670481355084" duration="8315000" />
+      <workItem from="1670505740003" duration="1114000" />
+      <workItem from="1670568008303" duration="2399000" />
+      <workItem from="1670570964073" duration="11315000" />
+      <workItem from="1670826455958" duration="4114000" />
+      <workItem from="1670834413568" duration="417000" />
+      <workItem from="1670834918804" duration="43000" />
+      <workItem from="1670835737683" duration="447000" />
+      <workItem from="1670836308112" duration="415000" />
+      <workItem from="1670846820670" duration="85000" />
+      <workItem from="1670861719582" duration="704000" />
+      <workItem from="1670862456968" duration="1952000" />
+      <workItem from="1670896036128" duration="23489000" />
+      <workItem from="1670982249302" duration="591000" />
+      <workItem from="1670999767455" duration="15133000" />
+      <workItem from="1671074463541" duration="586000" />
+      <workItem from="1671086898854" duration="11385000" />
+      <workItem from="1671120995511" duration="4000" />
+      <workItem from="1671156747965" duration="8822000" />
+      <workItem from="1671172337276" duration="8498000" />
+      <workItem from="1671181151922" duration="6997000" />
+      <workItem from="1671202988083" duration="588000" />
+      <workItem from="1671431890350" duration="30000" />
+      <workItem from="1671431948574" duration="14612000" />
+      <workItem from="1671500651428" duration="27167000" />
+      <workItem from="1671550460684" duration="4075000" />
+      <workItem from="1671587100659" duration="3861000" />
+      <workItem from="1671591259475" duration="611000" />
+      <workItem from="1671594120213" duration="2295000" />
+      <workItem from="1671781817378" duration="959000" />
+      <workItem from="1671782917147" duration="25000" />
+      <workItem from="1671782976513" duration="2545000" />
+      <workItem from="1672020612682" duration="418000" />
+      <workItem from="1672021572650" duration="6243000" />
+      <workItem from="1672028608248" duration="2453000" />
+      <workItem from="1672044611209" duration="4594000" />
+      <workItem from="1672111615516" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/DistrictServiceImpl.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/da-api/src/main/java/com/globits/da/service/impl/EmployeeServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.catalina.LifecycleException" package="org.apache.catalina" />
+          <option name="timeStamp" value="16" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.globits.da.domain.Province" memberName="id" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
